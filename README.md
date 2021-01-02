@@ -4,8 +4,8 @@ I am Tao Ruijie, the PhD student in National Univerisity of Singapore (NUS), Ele
 
 ### Education
 
-**```Ph.D```**
-National Univeristy of Singapore, 2019-2023
+<p align="left"> PhD student </p>
+<p align="right"> National Univeristy of Singapore, 2019-2023 </p>
 
 **```M.Sc ```**
 National Univeristy of Singapore, 2018-2019
