@@ -4,36 +4,16 @@ I am Tao Ruijie, the PhD student in National Univerisity of Singapore (NUS), Ele
 
 ### Education
 
-```PhD ```
+**```Ph.D```**
 National Univeristy of Singapore, 2019-2023
 
-```M.Sc ```
+**```M.Sc ```**
 National Univeristy of Singapore, 2018-2019
 
-```B.Eng ```
+**```B.Eng ```**
 Soochow University, 2014-2018
 
-# Header 1
-## Header 2
-### Header 3
+### Publication
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TaoRuijie/TaoRuijie.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Ruijie Tao**, Rohan Kumar Das and Haizhou Li, “Audio-visual Speaker Recognition with a Cross-modal Discriminative Network”, in Proc. Conference of the International Speech Communication Association (INTERSPEECH), Shanghai, China, October 2020. 
+Rohan Kumar Das, **Ruijie Tao**, Jichen Yang, Wei Rao, Cheng Yu and Haizhou Li, “HLT-NUS Submission for 2019 NIST Multimedia Speaker Recognition Evaluation”, in Proc. Asia-Pacific Signal and Information Processing Association (APSIPA), Auckland, New Zealand, December 2020.
