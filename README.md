@@ -12,5 +12,12 @@ I am Tao Ruijie, the PhD student in National Univerisity of Singapore (NUS), Ele
 
 ### Publication
 
-**Ruijie Tao**, Rohan Kumar Das and Haizhou Li, “Audio-visual Speaker Recognition with a Cross-modal Discriminative Network”, in Proc. Conference of the International Speech Communication Association (INTERSPEECH), Shanghai, China, October 2020. 
-Rohan Kumar Das, **Ruijie Tao**, Jichen Yang, Wei Rao, Cheng Yu and Haizhou Li, “HLT-NUS Submission for 2019 NIST Multimedia Speaker Recognition Evaluation”, in Proc. Asia-Pacific Signal and Information Processing Association (APSIPA), Auckland, New Zealand, December 2020.
+[1] **Ruijie Tao**, Rohan Kumar Das and Haizhou Li, “Audio-visual Speaker Recognition with a Cross-modal Discriminative Network”, in Proc. Conference of the International Speech Communication Association (INTERSPEECH), Shanghai, China, October 2020. 
+
+[2] Rohan Kumar Das, **Ruijie Tao**, Jichen Yang, Wei Rao, Cheng Yu and Haizhou Li, “HLT-NUS Submission for 2019 NIST Multimedia Speaker Recognition Evaluation”, in Proc. Asia-Pacific Signal and Information Processing Association (APSIPA), Auckland, New Zealand, December 2020.
+
+### Research interest
+
+**Audio-visual Speaker Recognition**
+
+**Audio-visual Speaker Diarization, Speech Separation**
