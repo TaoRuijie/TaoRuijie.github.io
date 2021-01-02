@@ -2,7 +2,7 @@
 
 I am Tao Ruijie, the PhD student in National Univerisity of Singapore (NUS), Electrical and Computer Engineering (ECE) department, supervised by [Prof Li Haizhou](http://ece.nus.edu.sg/hlt/)
 
-![](https://github.com/TaoRuijie/TaoRuijie.github.io/blob/main/TRJ.png){:height="816px" width="612px"}
+<img src="https://github.com/TaoRuijie/TaoRuijie.github.io/blob/main/TRJ.png" width = "260" height = "400" align=center>
 ### Education
 
 **``` PhD ```**    
