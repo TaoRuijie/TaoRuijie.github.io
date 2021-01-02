@@ -22,6 +22,6 @@ I am Tao Ruijie, the PhD student in National Univerisity of Singapore (NUS), Ele
 
 ### Research interest
 
-    **Audio-visual Speaker Recognition**
+  **Audio-visual Speaker Recognition**
 
-    **Audio-visual Speaker Diarization, Speech Separation**
+  **Audio-visual Speaker Diarization, Speech Separation**
