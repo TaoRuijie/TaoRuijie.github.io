@@ -1,11 +1,11 @@
 
 ## Tao Ruijie
 
-I am Tao Ruijie, the PhD student in National Univerisity of Singapore (NUS), Electrical and Computer Engineering (ECE) department, supervised by [Prof Li Haizhou](http://ece.nus.edu.sg/hlt/).
+Hi! I am Tao Ruijie, the PhD student in National Univerisity of Singapore (NUS), Electrical and Computer Engineering (ECE) department, supervised by [Prof Li Haizhou](http://ece.nus.edu.sg/hlt/).
 
 ![TRJ](https://github.com/TaoRuijie/TaoRuijie.github.io/raw/main/TRJ.png){:height="30%" width="30%"}
 
-|<img width=200/> [Google scholar](https://scholar.google.com/citations?user=sdXITx8AAAAJ&hl=zh-CN) |<img width=200/> [Leetcode](https://leetcode.com/1183068560/) |<img width=200/> [Github](https://github.com/TaoRuijie) |<img width=200/> [Zhihu](https://www.zhihu.com/people/tao-rui-jie-34) |<img width=200/> [Bilibili](https://space.bilibili.com/194466325) |<img width=200/> [CV](https://github.com/TaoRuijie/TaoRuijie.github.io/raw/main/CV.pdf) |
+|<img width=150/> [Google scholar](https://scholar.google.com/citations?user=sdXITx8AAAAJ&hl=zh-CN) |<img width=150/> [Leetcode](https://leetcode.com/1183068560/) |<img width=150/> [Github](https://github.com/TaoRuijie) |<img width=150/> [Zhihu](https://www.zhihu.com/people/tao-rui-jie-34) |<img width=150/> [Bilibili](https://space.bilibili.com/194466325) |<img width=150/> [CV](https://github.com/TaoRuijie/TaoRuijie.github.io/raw/main/CV.pdf) |
 
 ### Education
 
