@@ -1,6 +1,6 @@
 <style>
 table th:first-of-type {
-	width: 100px;
+	width: 200px;
 }
 </style>
 
