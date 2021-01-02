@@ -1,13 +1,17 @@
 ## Tao Ruijie
 
-I am Tao Ruijie, the PhD student in National Univerisity of Singapore (NUS), Electrical and Computer Engineering (ECE) department.
+I am Tao Ruijie, the PhD student in National Univerisity of Singapore (NUS), Electrical and Computer Engineering (ECE) department, supervised by [Prof Li Haizhou](http://ece.nus.edu.sg/hlt/)
 
-### Markdown
+### Education
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+```PhD ```
+National Univeristy of Singapore, 2019-2023
 
-```markdown
-Syntax highlighted code block
+```M.Sc ```
+National Univeristy of Singapore, 2018-2019
+
+```B.Eng ```
+Soochow University, 2014-2018
 
 # Header 1
 ## Header 2
