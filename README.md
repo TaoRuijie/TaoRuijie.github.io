@@ -1,16 +1,25 @@
 ## Tao Ruijie
 
-I am Tao Ruijie, the PhD student in National Univerisity of Singapore (NUS), Electrical and Computer Engineering (ECE) department, supervised by [Prof Li Haizhou](http://ece.nus.edu.sg/hlt/)
+I am Tao Ruijie, the PhD student in National Univerisity of Singapore (NUS), Electrical and Computer Engineering (ECE) department, supervised by [Prof Li Haizhou](http://ece.nus.edu.sg/hlt/).
 
 ![TRJ](https://github.com/TaoRuijie/TaoRuijie.github.io/raw/main/TRJ.png){:height="30%" width="30%"}
 
+[Google scholar](https://scholar.google.com/citations?user=sdXITx8AAAAJ&hl=zh-CN)
+[Leetcode](https://leetcode.com/1183068560/)
+[Github](https://github.com/TaoRuijie)
+[Zhihu](https://www.zhihu.com/people/tao-rui-jie-34)
+[Bilibili](https://space.bilibili.com/194466325)
+
 ### Education
 
-**PhD** <p align="right"> National Univeristy of Singapore, 2019-2023 </p>
+**PhD** 
+<p align="right"> National Univeristy of Singapore, 2019-2023 </p>
 
-**M.Sc** <p align="right"> National Univeristy of Singapore, 2018-2019 </p>
+**M.Sc** 
+<p align="right"> National Univeristy of Singapore, 2018-2019 </p>
 
-**B.Eng** <p align="right"> Soochow University, 2014-2018 </p>
+**B.Eng** 
+<p align="right"> Soochow University, 2014-2018 </p>
 
 ### Publication
 
@@ -25,6 +34,9 @@ I am Tao Ruijie, the PhD student in National Univerisity of Singapore (NUS), Ele
   **Audio-visual Speaker Diarization, Speech Separation**
 
 ### Teaching Assistance
-2019-2020 Semester 2 	<p align="right"> EE5132 Wireless and Sensor Networks </p>
-2020-2021 Semester 1 	<p align="right"> EE3801 Data Engineering Principles </p>
-2019-2020 Semester 2 	<p align="right"> EE5132 Wireless and Sensor Networks </p>
+2019-2020 Semester 2 	
+<p align="right"> EE5132 Wireless and Sensor Networks </p>
+2020-2021 Semester 1 	
+<p align="right"> EE3801 Data Engineering Principles </p>
+2019-2020 Semester 2 	
+<p align="right"> EE5132 Wireless and Sensor Networks </p>
