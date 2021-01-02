@@ -5,7 +5,7 @@ I am Tao Ruijie, the PhD student in National Univerisity of Singapore (NUS), Ele
 ![TRJ](https://github.com/TaoRuijie/TaoRuijie.github.io/raw/main/TRJ.png){:height="30%" width="30%"}
 
 
-| <div style="width: 150pt">[Google scholar](https://scholar.google.com/citations?user=sdXITx8AAAAJ&hl=zh-CN) | <div style="width: 150pt">[Leetcode](https://leetcode.com/1183068560/) | <div style="width: 150pt">[Github](https://github.com/TaoRuijie) | <div style="width: 150pt">[Zhihu](https://www.zhihu.com/people/tao-rui-jie-34) | <div style="width: 150pt">[Bilibili](https://space.bilibili.com/194466325) |
+| <div style="width: 150pt"> [Google scholar](https://scholar.google.com/citations?user=sdXITx8AAAAJ&hl=zh-CN) | <div style="width: 150pt"> [Leetcode](https://leetcode.com/1183068560/) | <div style="width: 150pt"> [Github](https://github.com/TaoRuijie) | <div style="width: 150pt"> [Zhihu](https://www.zhihu.com/people/tao-rui-jie-34) | <div style="width: 150pt"> [Bilibili](https://space.bilibili.com/194466325) |
 
 ### Education
 
