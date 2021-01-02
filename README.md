@@ -5,8 +5,7 @@ I am Tao Ruijie, the PhD student in National Univerisity of Singapore (NUS), Ele
 ![TRJ](https://github.com/TaoRuijie/TaoRuijie.github.io/raw/main/TRJ.png =612x816)
 ### Education
 
-**``` PhD ```**    
-<p align="right"> National Univeristy of Singapore, 2019-2023 </p>
+<p align="left"> **PhD** </p><p align="right"> National Univeristy of Singapore, 2019-2023 </p>
 
 **``` M.Sc ```**   
 <p align="right"> National Univeristy of Singapore, 2018-2019 </p>
