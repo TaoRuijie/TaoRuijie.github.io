@@ -26,16 +26,6 @@ Hi! I am Tao Ruijie, the PhD student in National Univerisity of Singapore (NUS),
 
 [3] Zexu Pan, **Ruijie Tao**, Chenglin Xu and Haizhou Li. Muse: Multi-modal target speaker extraction with visual cues. arXiv preprint arXiv:2010.07775, 2020.
 
-### Research Interest
-
-  **Audio-visual Speaker Recognition**
-
-  **Audio-visual Speaker Diarization, Speech Separation**
-
-### Teaching Assistance
-2019-2020 Semester 2 	
-<p align="right"> EE5132 Wireless and Sensor Networks </p>
-2020-2021 Semester 1 	
-<p align="right"> EE3801 Data Engineering Principles </p>
-2019-2020 Semester 2 	
-<p align="right"> EE5132 Wireless and Sensor Networks </p>
+<script src="https://cdn1.lncld.net/static/js/av-mini-0.6.10.js"></script>
+<script src="http://jerry-cdn.b0.upaiyun.com/hit-kounter/hit-kounter-lc-0.2.0.js"></script>
+<span data-hk-page="current"> - </span>
