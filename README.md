@@ -1,8 +1,3 @@
-<style>
-table th:first-of-type {
-	width: 800px;
-}
-</style>
 
 ## Tao Ruijie
 
@@ -11,6 +6,11 @@ I am Tao Ruijie, the PhD student in National Univerisity of Singapore (NUS), Ele
 ![TRJ](https://github.com/TaoRuijie/TaoRuijie.github.io/raw/main/TRJ.png){:height="30%" width="30%"}
 
 
+<style>
+table th:first-of-type {
+	width: 800px;
+}
+</style>
 | [Google scholar](https://scholar.google.com/citations?user=sdXITx8AAAAJ&hl=zh-CN) | [Leetcode](https://leetcode.com/1183068560/) | [Github](https://github.com/TaoRuijie) | [Zhihu](https://www.zhihu.com/people/tao-rui-jie-34) | [Bilibili](https://space.bilibili.com/194466325) | [CV](https://github.com/TaoRuijie/TaoRuijie.github.io/raw/main/CV.pdf) |
 
 ### Education
