@@ -28,4 +28,4 @@ Hi! I am Tao Ruijie, a PhD student in National Univerisity of Singapore (NUS), E
 
 ![]( https://visitor-badge.glitch.me/badge?page_id=<your_page_id>)
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=oNdtIyuM65hXBJmXAhJEkvduMApsPb0oz3hfoJJQAF0&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=100&t=n&d=oNdtIyuM65hXBJmXAhJEkvduMApsPb0oz3hfoJJQAF0&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
