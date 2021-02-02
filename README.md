@@ -23,7 +23,6 @@ Hi! I am Tao Ruijie, a PhD student in National Univerisity of Singapore (NUS), E
 
 [2] Rohan Kumar Das, **Ruijie Tao**, Jichen Yang, Wei Rao, Cheng Yu and Haizhou Li, “HLT-NUS Submission for 2019 NIST Multimedia Speaker Recognition Evaluation”, in Proc. Asia-Pacific Signal and Information Processing Association (APSIPA), Auckland, New Zealand, December 2020.
 
-[3] Zexu Pan, **Ruijie Tao**, Chenglin Xu and Haizhou Li. Muse: Multi-modal target speaker extraction with visual cues. arXiv preprint arXiv:2010.07775, 2020.
-
+[3] Zexu Pan, **Ruijie Tao**, Chenglin Xu, and Haizhou Li, “Multi-modal target speaker extraction with visual cues”, in Proc. IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Toronto, Ontario, Canada, June 2021.
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=oNdtIyuM65hXBJmXAhJEkvduMApsPb0oz3hfoJJQAF0&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
