@@ -25,4 +25,6 @@ Hi! I am Tao Ruijie, a PhD student in National Univerisity of Singapore (NUS), E
 
 [3] Zexu Pan, **Ruijie Tao**, Chenglin Xu, and Haizhou Li, “Multi-modal target speaker extraction with visual cues”, in Proc. IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Toronto, Ontario, Canada, June 2021.
 
+[4] **Ruijie Tao**, Zexu Pan, Rohan Kumar Das, Xinyuan Qian, Mike Zheng Shou, Haizhou Li, "Is Someone Speaking? Exploring Long-term Temporal Features for Audio-visual Active Speaker Detection", ACM Multimedia (MM), Chengdu, Sichuan China, Oct 2021.
+
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=oNdtIyuM65hXBJmXAhJEkvduMApsPb0oz3hfoJJQAF0&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
